@@ -5,7 +5,7 @@ A full-stack web application to manage products where users can add, view, updat
 🧰 Tech Stack
 🔹 Frontend
 ⚛️ react
-📡 mongoDb
+📡 mongoDB
 
 ✨ Features
 🧾 Basic Features
